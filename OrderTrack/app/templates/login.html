@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Sign In</h1>
+    <form action="" method="post">
+        {{ form.hidden_tag() }}
+        <p>
+            <b>{{ form.username.label }}</b><br>
+            <table border=1 style="width:64px">
+            	<td>{{ form.username(size=32) }}</td>
+        	</table><br>
+        </p>
+        <p>
+            <b>{{ form.password.label }}</b><br>
+            <table border=1 style="width:64px">
+            	<td>{{ form.password(size=32) }}</td>
+            </table>
+        </p>
+        <br>
+        <p>{{ form.remember_me() }} <b>{{ form.remember_me.label }}</b></p>
+        <p>{{ form.submit() }}</p>
+    </form>
+   <br> <p>New User? <a href="{{ url_for('register') }}">Click to Register!</a></p>
+{% endblock %}

@@ -1,0 +1,549 @@
+1523733594765	geckodriver	INFO	geckodriver 0.19.1
+1523733594782	geckodriver	INFO	Listening on 127.0.0.1:51044
+1523733595384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.c8EbLpAFVdmu"
+1523733595771	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523733596219	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11888] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11888] WARNING:1523733597359	Marionette	INFO	Listening on port 51048
+1523733597523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523733597556	Marionette	DEBUG	Register listener.js for window 6442450945
+1523733597579	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523733604794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523733604795	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523733606044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523733608432	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 3096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4080] WARNING: pipe error: 109: file z:/[Child 14872] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14872] WARNING: pipe error: 109: file z:/build[GPU 12940] WARNING: pipe error: 109: fi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523733651978	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1756] WARNING: pipe erro1523733653099	Marionette	INFO	Listening on port 51122
+1523733653328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523733653366	Marionette	DEBUG	Register listener.js for window 6442450945
+1523733653385	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523733657325	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523733657326	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523733658127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523733659704	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 4436] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co[Child 147
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+23733747133	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523733747667	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044] WARNING: pip1523733749012	Marionette	INFO	Listening on port 51181
+1523733749434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523733749477	Marionette	DEBUG	Register listener.js for window 4294967297
+1523733749502	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523733753082	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523733753082	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523733754200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523733755397	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Child 15480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15480] WARNING: pi[GPU 5016] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523733827354	geckodriver	INFO	geckodriver 0.19.1
+1523733827361	geckodriver	INFO	Listening on 127.0.0.1:51233
+1523733827997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.mH4PjsP8eMCk"
+1523733828288	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523733828712	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2412] WARNING: pipe er1523733829791	Marionette	INFO	Listening on port 51237
+1523733830141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523733830233	Marionette	DEBUG	Register listener.js for window 6442450945
+1523733830259	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523733839928	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523733839928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523733840867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523733842285	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+[Parent 1260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8072] WARNING: pipe [GPU 7060] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+StartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523733990982	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11528] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11528] WARNING: pipe 1523733992276	Marionette	INFO	Listening on port 51289
+1523733992773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523733992870	Marionette	DEBUG	Register listener.js for window 6442450945
+1523733992900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523733997301	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523733997302	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523733998049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734000222	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 9292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276] WARNING: pipe e[GPU 13112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+odules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734032211	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6224] WA1523734033473	Marionette	INFO	Listening on port 51333
+1523734033904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734033979	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734034016	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734037446	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734037447	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734038333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734039951	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Child 7304] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464] WARNING: [GPU 12804] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734076529	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16128] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14120] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14120] WARNING: pipe erroUnable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734077812	Marionette	INFO	Listening on port 51379
+1523734078247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734078314	Marionette	DEBUG	Register listener.js for window 4294967297
+1523734078329	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734082108	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734082109	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734083241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734085247	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 16128] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9892] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11884] WARNING: pipe error: 109
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734126077	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1523734127300	Marionette	INFO	Listening on port 51428
+1523734127345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734127376	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734127399	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734132677	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734132677	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734133617	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734133853	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 15556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14668] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rofile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.ftqEJYRgQ702"
+1523734170152	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734170790	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14844] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14844] WARNING: pipe error: 1523734171941	Marionette	INFO	Listening on port 51521
+1523734171980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734172050	Marionette	DEBUG	Register listener.js for window 4294967297
+1523734172088	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734175371	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734175372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734176127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734177759	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 15292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15792] WARNING: pip[Child 10856] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16020] WARNING: pipe error: 109: file z:/b
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734201964	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15608] WARNING: pipe1523734203406	Marionette	INFO	Listening on port 51566
+1523734203633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734203681	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734203696	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734208646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734208647	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734209547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734209752	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 6312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rror parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734234153	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7464] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7464] WARNING: pipe error: 109: fileUnable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734235315	Marionette	INFO	Listening on port 51680
+1523734235599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734235653	Marionette	DEBUG	Register listener.js for window 4294967297
+1523734235669	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734240066	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734240066	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734240929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734242501	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+[Parent 15584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10488] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9396] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3548] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523734425395	geckodriver	INFO	geckodriver 0.19.1
+1523734425402	geckodriver	INFO	Listening on 127.0.0.1:51733
+1523734426040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.lFvk2xpAEGpt"
+1523734426400	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734427037	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14036] WARNING: pipe error: 1Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734428190	Marionette	INFO	Listening on port 51737
+1523734428225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734428260	Marionette	DEBUG	Register listener.js for window 4294967297
+1523734428277	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734432102	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734432102	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734432926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734435053	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734449812	geckodriver	INFO	geckodriver 0.19.1
+1523734449819	geckodriver	INFO	Listening on 127.0.0.1:51782
+1523734450470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.R5MsdwNm1tul"
+1523734450862	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734451440	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15748] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15668] WARNING:1523734452722	Marionette	INFO	Listening on port 51786
+1523734453155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734453196	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734453212	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734458008	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734458008	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734458680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734458865	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734493636	geckodriver	INFO	geckodriver 0.19.1
+1523734493643	geckodriver	INFO	Listening on 127.0.0.1:51822
+1523734494285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.pr2xfgwZIrP0"
+1523734494670	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734495260	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4460] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523734496366	Marionette	INFO	Listening on port 51826
+1523734496434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734496465	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734496490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734500246	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734500247	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734501095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734502584	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734516231	geckodriver	INFO	geckodriver 0.19.1
+1523734516237	geckodriver	INFO	Listening on 127.0.0.1:51870
+1523734516890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.3xMVi6PjQYGy"
+1523734517216	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734518051	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12872] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12872] WARNINGUnable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734519368	Marionette	INFO	Listening on port 51874
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1523734519567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734519668	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734519709	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734524720	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734524720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734525852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734525858	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734543540	geckodriver	INFO	geckodriver 0.19.1
+1523734543546	geckodriver	INFO	Listening on 127.0.0.1:51909
+1523734544173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.UxgBIpGtel0z"
+1523734544466	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734545310	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9128] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9128] WARNING: pipe eUnable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734546551	Marionette	INFO	Listening on port 51913
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1523734546849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734546926	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734546958	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734549850	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734549851	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734550457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734552294	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734580369	geckodriver	INFO	geckodriver 0.19.1
+1523734580376	geckodriver	INFO	Listening on 127.0.0.1:51950
+1523734581014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.nDntSwG4jPKY"
+1523734581322	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734582199	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6228] WARNING: pipe error: 10Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734583428	Marionette	INFO	Listening on port 51954
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1523734583710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734583754	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734583782	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734588253	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734588253	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734588913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734589029	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734688544	geckodriver	INFO	geckodriver 0.19.1
+1523734688551	geckodriver	INFO	Listening on 127.0.0.1:52023
+1523734689185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.1b8msbPOsQtJ"
+1523734689506	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734690038	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1172] WARNING:1523734691162	Marionette	INFO	Listening on port 52027
+1523734691329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734691391	Marionette	DEBUG	Register listener.js for window 4294967297
+1523734691408	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734696710	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734696710	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734697458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734699108	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734769202	geckodriver	INFO	geckodriver 0.19.1
+1523734769208	geckodriver	INFO	Listening on 127.0.0.1:52069
+1523734769852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.XXs7VO3BgUqc"
+1523734770178	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734771021	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15764] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15764] WARNING: pipe errUnable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734772349	Marionette	INFO	Listening on port 52073
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1523734772503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734772582	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734772626	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734777272	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734777273	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734777978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734779899	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734858867	geckodriver	INFO	geckodriver 0.19.1
+1523734858875	geckodriver	INFO	Listening on 127.0.0.1:52115
+1523734859493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.jH6X9LBgIZv6"
+1523734859782	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734860163	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5328] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11600] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11600] WARNING: pipe 1523734861281	Marionette	INFO	Listening on port 52119
+1523734861642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734861696	Marionette	DEBUG	Register listener.js for window 6442450945
+1523734861717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734866023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734866023	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734867020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734868142	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734889550	geckodriver	INFO	geckodriver 0.19.1
+1523734889556	geckodriver	INFO	Listening on 127.0.0.1:52160
+1523734890184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.Ff6SyRZc7YW0"
+1523734890450	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523734890814	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch1523734891938	Marionette	INFO	Listening on port 52164
+1523734892358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523734892420	Marionette	DEBUG	Register listener.js for window 4294967297
+1523734892447	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523734895778	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523734895778	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523734896670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523734898445	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523735417115	geckodriver	INFO	geckodriver 0.19.1
+1523735417125	geckodriver	INFO	Listening on 127.0.0.1:52242
+1523735417736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.EMPOzNHk2sYp"
+1523735417951	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523735418323	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16056] WARNING: pipeUnable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523735419335	Marionette	INFO	Listening on port 52246
+1523735419869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523735419930	Marionette	DEBUG	Register listener.js for window 4294967297
+1523735419952	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523735424585	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523735424586	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523735427778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523735429088	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523735454161	geckodriver	INFO	geckodriver 0.19.1
+1523735454162	geckodriver	INFO	Listening on 127.0.0.1:52290
+1523735454785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.GMaSH5qSjej9"
+1523735454998	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523735455365	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15648] WARNING: pipe1523735456533	Marionette	INFO	Listening on port 52294
+1523735456959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523735457033	Marionette	DEBUG	Register listener.js for window 6442450945
+1523735457068	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523735461274	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523735461275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523735462032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523735463182	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523735959376	geckodriver	INFO	geckodriver 0.19.1
+1523735959381	geckodriver	INFO	Listening on 127.0.0.1:52358
+1523735960013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.o0nrBUzyLg5u"
+1523735960248	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523735960594	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12960] WARNING: pipe er1523735961663	Marionette	INFO	Listening on port 52362
+1523735962182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523735962247	Marionette	DEBUG	Register listener.js for window 4294967297
+1523735962275	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523735967732	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523735967732	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523735968546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523735969846	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523736111555	geckodriver	INFO	geckodriver 0.19.1
+1523736111568	geckodriver	INFO	Listening on 127.0.0.1:52402
+1523736112152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.CSzJzMc4tg4X"
+1523736112449	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523736112836	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8452] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8452] WARNING: pipe err1523736114022	Marionette	INFO	Listening on port 52406
+1523736114303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523736114409	Marionette	DEBUG	Register listener.js for window 4294967297
+1523736114466	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523736118875	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523736118876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523736119736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523736119939	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523736139749	geckodriver	INFO	geckodriver 0.19.1
+1523736139755	geckodriver	INFO	Listening on 127.0.0.1:52443
+1523736140366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Thomas\\AppData\\Local\\Temp\\rust_mozprofile.w6JbZvVeOevg"
+1523736140673	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+1523736141044	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Thomas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14712] WARNING: pipe error: 101523736142179	Marionette	INFO	Listening on port 52447
+1523736142543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523736142602	Marionette	DEBUG	Register listener.js for window 6442450945
+1523736142624	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523736148571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523736148572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523736149449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"
+1523736150425	Marionette	DEBUG	Received DOM event "pageshow" for "https://my.maerskline.com/tracking/search?keyType=UNKNOWN_TYPE&searchNumber=MAEU8358826"

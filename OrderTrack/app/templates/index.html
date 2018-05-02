@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+
+{% block content %}
+<body>
+
+	<h1>Track Order</h1><br>
+
+	<table>
+		<tr>
+			<td style="vertical-align:top">
+			</td>
+			<td style="vertical-align:top">
+				    <form action="" method="post">
+
+				        {{ form.hidden_tag() }}
+				        <p>
+					        <b>{{ form.orderName.label }}</b><br>
+					        <table border=1 style="width:64px">
+					        <td>{{ form.orderName(size=32) }}</td>
+					    	</table><br>
+				        </p>
+				        <p>
+				            <b>{{ form.dueDate.label }}</b><br>
+				            <table border=1 style="width:64px">
+				            <td>{{ form.dueDate(size=32) }}</td>
+				        	</table><br>
+				        </p>
+				        <p></p>
+				        <p>
+				            <b>{{ form.carrier.label }}</b><br>
+				            {{ form.carrier(size=5) }}<br><br>
+				        </p>
+				        <p>
+				            <b>{{ form.container.label }}</b><br>
+				            <table border=1 style="width:64px">
+				            <td>{{ form.container(size=32) }}</td>
+				            </table><br>
+				        </p>
+				        <p>
+				            <b>{{ form.po.label }}</b><br>
+				            <table border=1 style="width:64px">
+				            <td>{{ form.po(size=32) }}</td>
+				        	</table><br>
+				        </p>
+
+				        <p>{{ form.submit() }}</p>
+				    </form>
+			</td>
+			<td style="vertical-align:top">
+									<table>
+										<thead>
+											<tr class="row100 head" style="background-color:#e6e6e6">
+												<th class="cell100 column3"><b>Order</b></th>
+												<th class="cell100 column2"><b>Due Date</b></th>
+												<th class="cell100 column2"><b>ETA Date</b></th>
+												<th class="cell100 column5"><b>Carrier</b></th>
+												<th class="cell100 column5"><b>Container</b></th>
+												<th class="cell100 column5"><b>PO #</b></th>
+												<th class="cell100 column5"><b>Delete</b></th>
+												<th class="cell100 column5"><b>Update</b></th>
+											</tr>
+										</thead>
+									</table>									
+								<div class="table100-body js-pscroll">
+									<table>
+										<tbody>
+												{% for order in orders %}
+												<form action="" method="post" id="delete">
+													<tr class="row100 body">
+														<td class="cell100 column3">{{order[0].name}}</td>
+														<td class="cell100 column2">{{order[0].dueDate}}</td>
+														<td class="cell100 column2">{{order[0].etaDate}}</td>
+														<td class="cell100 column5">{{order[0].carrier}}</td>
+														<td class="cell100 column5">{{order[0].cont}}</td>
+														<td class="cell100 column5"><button type="button">{{order[0].po}}</button></td>
+														{{ order[1].order_id()}}
+														<td class="cell100 column5">{{ order[1].submit() }}</td>
+														<td class="cell100 column5"><button type="button"><u>Update</u></button></td>
+													</tr>
+												</form>
+												{% endfor %}	
+
+										</tbody>
+									</table>
+								</div>
+			</td>
+		</tr>
+	</table>
+
+<!--===============================================================================================-->	
+	<script src="{{ url_for('static',filename='vendor/jquery/jquery-3.2.1.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static',filename='vendor/bootstrap/js/popper.js') }}"></script>
+	<script src="{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static',filename='vendor/select2/select2.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static',filename='vendor/perfect-scrollbar/perfect-scrollbar.min.js') }}"></script>
+	<script>
+		$('.js-pscroll').each(function(){
+			var ps = new PerfectScrollbar(this);
+
+			$(window).on('resize', function(){
+				ps.update();
+			})
+		});
+	</script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static',filename='js/main.js') }}"></script>
+
+</body>
+{% endblock %}

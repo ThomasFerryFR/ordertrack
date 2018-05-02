@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+
+		<title>OrderTrack</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--===============================================================================================-->	
+		<link rel="icon" type="image/png" href="{{ url_for('static',filename='images/icons/favicon.ico') }}"/>
+		<!--href="{{ url_for('static',filename=' ') }}"-->
+	<!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}">
+	<!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='fonts/font-awesome-4.7.0/css/font-awesome.min.css') }}">
+	<!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='vendor/animate/animate.css') }}">
+	<!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='vendor/select2/select2.min.css') }}">
+	<!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='vendor/perfect-scrollbar/perfect-scrollbar.css') }}">
+	<!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/util.css') }}">
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/main.css') }}">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" media="screen" href ="static/bootstrap.min.css">
+    <link rel="stylesheet" href="static/bootstrap-theme.min.css">
+    <!--===============================================================================================-->
+<div>
+    <a href="/index">Home</a>
+	{% if current_user.is_anonymous %}
+    	<a href="{{ url_for('login') }}">Login</a>
+    {% else %}
+    	<a href="{{ url_for('logout') }}">Logout</a>
+    {% endif %}
+</div>
+<br>
+</head>
+
+{% block content %}{% endblock %}
+
+</html>
