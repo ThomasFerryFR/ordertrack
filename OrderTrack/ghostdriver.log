@@ -1,0 +1,18 @@
+[INFO  - 2018-05-03T01:48:12.434Z] GhostDriver - Main - running on port 53606
+[INFO  - 2018-05-03T01:48:13.599Z] Session [0a99e1f0-4e74-11e8-8586-cbf10083bdb7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-05-03T01:48:13.599Z] Session [0a99e1f0-4e74-11e8-8586-cbf10083bdb7] - page.customHeaders:  - {}
+[INFO  - 2018-05-03T01:48:13.602Z] Session [0a99e1f0-4e74-11e8-8586-cbf10083bdb7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-05-03T01:48:13.602Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0a99e1f0-4e74-11e8-8586-cbf10083bdb7
+[ERROR - 2018-05-03T01:49:15.307Z] Session [0a99e1f0-4e74-11e8-8586-cbf10083bdb7] - page.onError - msg: Error: Load timeout for modules: /web/projects/PSS/pss.min.js
+http://requirejs.org/docs/errors.html#timeout
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-03T01:49:15.309Z] Session [0a99e1f0-4e74-11e8-8586-cbf10083bdb7] - page.onError - stack:
+  defaultOnError (https://my.maerskline.com/web/js/vendor/requirejs/require.js:143)
+  onError (https://my.maerskline.com/web/js/vendor/requirejs/require.js:547)
+  checkLoaded (https://my.maerskline.com/web/js/vendor/requirejs/require.js:698)
+  (anonymous function) (https://my.maerskline.com/web/js/vendor/requirejs/require.js:717)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-05-03T01:53:12.455Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-03T01:53:12.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '0a99e1f0-4e74-11e8-8586-cbf10083bdb7', because windowless
