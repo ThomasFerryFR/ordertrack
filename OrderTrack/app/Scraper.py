@@ -24,7 +24,7 @@ class order:
         
         print('Fetching Status Data...')
         
-        browser = webdriver.Firefox()
+        browser = webdriver.PhantomJS(executable_path='C:/Users/Thomas/phantomjs-2.1.1-windows/bin/phantomjs')
         browser.get(url) 
         innerHTML = browser.execute_script("return document.body.innerHTML")
         browser.stop_client()
